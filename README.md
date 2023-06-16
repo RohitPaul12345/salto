@@ -1,4 +1,4 @@
-# Salto OSS monorepo
+# SALTO OSS MONOREPO
 [![Knuckles](bnw-face.png)](https://github.com/salto-io/salto/blob/main/docs/faq.md#why-did-we-choose-knuckles-as-our-mascot)
 ---
 
